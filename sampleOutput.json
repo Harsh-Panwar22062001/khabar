@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": null,
+    "title": "Michael Slater: Australia ex-cricketer charged with assaulting police",
+    "description": "Police say they were called to a property in Queensland after reports of a domestic violence incident.",
+    "url": "http://www.bbc.co.uk/news/world-australia-65158944",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/428B/production/_129253071_gettyimages-1152267520.jpg",
+    "publishedAt": "2023-04-03T08:07:20.6843686Z",
+    "content": "Former Australian cricket great Michael Slater has been charged with assaulting police during a confrontation in a popular Queensland holiday town.\r\nThe alleged incident on Friday left one officer wi… [+474 chars]"
+    },
+    {
+    "source": {
+    "id": "news-com-au",
+    "name": "News.com.au"
+    },
+    "author": null,
+    "title": "Fox Sports commentator roasted over new gig",
+    "description": "<p>Fox Sports AFL and cricket commentator Mark Howard is taking his talents to India.</p>",
+    "url": "https://www.news.com.au/sport/cricket/fox-sports-mark-howard-roasted-by-cohosts-after-landing-ipl-gig/news-story/f5a08a7e4bfb73a396f75839b511ae47",
+    "urlToImage": "https://content.api.news/v3/images/bin/a612440d180e2a97398c12a3abbb1676",
+    "publishedAt": "2023-04-03T07:18:00Z",
+    "content": "Fox Sports AFL and cricket commentator Mark Howard is taking his talents to India.\r\nHoward, who calls both sports for both Fox Footy and Triple M revealed he had accepted an opportunity to commentate… [+2040 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+    "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+    "publishedAt": "2020-04-27T11:41:47Z",
+    "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+    "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+    "publishedAt": "2020-03-30T15:26:05Z",
+    "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+    ]
+    }
