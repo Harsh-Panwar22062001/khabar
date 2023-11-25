@@ -27,7 +27,7 @@ export class News extends Component {
             page: 1,
             totalResults: 0
         }
-        document.title = `${this.capitalizeFirstLetter(this.props.category)} - NewsMonkey`;
+        document.title = `${this.capitalizeFirstLetter(this.props.category)} - khabarMania`;
     }
 
     async updateNews() {
